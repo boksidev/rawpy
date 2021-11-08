@@ -10,7 +10,7 @@ numpy
 scikit-image
 
 # test dependencies
-nose
+nose-py3
 imageio
 
 # documentation dependencies
